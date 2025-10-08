@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Supabase Analytics Dashboard",
+  "description": "A visually appealing analytics dashboard that displays key metrics from customer service data, visualized with dynamic charts and tables. This application is built with React, TypeScript, and Tailwind CSS, using Recharts for data visualization.",
+  "requestFramePermissions": []
+}
